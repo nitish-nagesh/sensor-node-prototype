@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|9c211d40-bbe2-4362-b3b5-1fff4befa6ae
+C:\Users\User\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|8611937c-f236-469b-829d-d9da03ce3aa4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|f4ed63d7-25bf-4723-bd3b-0bc15853bce3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|722cab7b-bbb1-4cd2-a961-b99615baabe6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|c910c43c-67d5-4e38-8bcc-d3bcc5ba72d9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\dev\psoc3\AnalogDevice\PSoC35AnalogDevice.cylib\PSoC35AnalogDevice.cyprj|545eaa8a-7a34-4df2-b05e-e6d63f4cc0e2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|834d5c0f-a0e5-4339-9510-2a9a7e936361
+D:\Nitish\Nitish's Stuff_Dolly Laptop\Nitish's Stuff\MS in Germany\TU Munich MSPE\During Your Studies\Courses\Labs\Sensor Nodes Laboratory\PSOC Tests\LED_Test_1\LED Test Project.cydsn\LED Test Project.cyprj|ff81d19b-a165-4a29-aef3-5c2ee0109f96

@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|f2a47c85-39ea-49fe-aac0-22ef9345860a
+C:\Users\User\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|6a63b648-ea1c-488b-8201-6ec37a9e086a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|ae673dd8-9cc7-4c89-80a0-131658b0583c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|deda136e-5bdc-4b1e-94eb-dccc30a0cfcf
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|d2810c3e-c2be-4cf1-a507-dc13bb72df2e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|9fea8b11-5e3c-4f9a-87b3-1c27af8c6e6b
+D:\Nitish\Nitish's Stuff_Dolly Laptop\Nitish's Stuff\MS in Germany\TU Munich MSPE\During Your Studies\Courses\Labs\Sensor Nodes Laboratory\PSOC Tests\PSoC RTD Tests\Test 01.cydsn\Test 01.cyprj|10ce7d38-f5fe-42ad-a269-a83d312e208c

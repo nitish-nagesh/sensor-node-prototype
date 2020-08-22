@@ -1,0 +1,1 @@
+"./CC1350_LAUNCHXL.obj" "./ccfg.obj" "./rfEasyLinkTx.obj" "./wsnQueue.obj" "./easylink/EasyLink.obj" "./smartrf_settings/smartrf_settings.obj" "./smartrf_settings/smartrf_settings_predefined.obj" "../CC1350_LAUNCHXL.cmd" -l"configPkg/linker.cmd" -l"/products/cc13xxware_2_04_03_17272/driverlib/bin/ccs/driverlib.lib" -llibc.a 
